@@ -2,15 +2,6 @@
 
 Este é o trabalho da matéria de Segurança da Informação, ministrada pelo professor Ronaldo Toshiaki Oikawa. O objetivo deste trabalho é substituir a nota da P2. Portanto, ele deve ser desenvolvido com o máximo de critério e cuidado, pois a avaliação será rigorosa.
 
-## Critérios de Avaliação
-
-Os seguintes itens impactarão a nota final:
-1. **Forma de Implementação:** Divisão entre `def` e `class`.
-2. **Criatividade na Solução de Problemas:** Abordagens inovadoras durante a implementação.
-3. **Documentação:** Deve seguir os critérios de auditoria e segurança.
-4. **Codificação Clara:** Código de fácil compreensão.
-5. **Originalidade:** Cópias de código serão penalizadas.
-6. **Execução no Servidor:** O programa "server" deve rodar no servidor Linux disponibilizado (RA@200.145.184.166 -p 40665).
 
 ## Funcionalidades
 
