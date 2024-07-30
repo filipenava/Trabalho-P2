@@ -1,7 +1,6 @@
 # Projeto de Segurança da Informação
 
-Este é o trabalho da matéria de Segurança da Informação, ministrada pelo professor Ronaldo Toshiaki Oikawa. O objetivo deste trabalho é substituir a nota da P2. Portanto, ele deve ser desenvolvido com o máximo de critério e cuidado, pois a avaliação será rigorosa.
-
+Este é o trabalho da matéria de Segurança da Informação, ministrada pelo professor Ronaldo Toshiaki Oikawa.
 
 ## Funcionalidades
 
